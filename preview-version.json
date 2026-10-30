@@ -1,0 +1,9 @@
+{
+  "version": "v2.1",
+  "mode": "manual-branch",
+  "builtAt": "2026-10-30",
+  "backendConnected": true,
+  "source": "Compiled V2.1 review with BNBU publishable-key configuration; root paths remapped",
+  "privateRepo": "SolSabaliEnt/bnbu-app",
+  "supabaseProject": "ozgerwjiirdzkvskmwns"
+}
